@@ -11,7 +11,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://mohamedkhaled2213.github.io/Front-end-junior-challange-2/))
+- Live Site URL: [Add live site URL here](https://mohamedkhaled2213.github.io/Front-end-junior-challange-2/)
 
 ### Built with
 
